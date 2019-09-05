@@ -1,0 +1,30 @@
+Kyligence PoC
+1.1. What is in the attachment:
+  1. Kyligence Introduction PowerPoint 
+  2. Tutorial Videos in the topic of
+    a. Modeling
+    b. Auto-Modeling
+    c. Cubing
+    d. Connecting Kyligence to Tableau
+1.2. What I've added to the powerpoint:
+  1. Incremental Cube Build Mechanism
+  2. Partition Data Refreshing Mechanism
+  3. Comparison Table for Kylin v.s. Kyligence  
+  4. Kyligence Modeling Step
+  5. Kyligence Cubing Step
+  6. Steps of Building a Kyligence Cluster
+  7. Configuration on Connecting Kyligence to RDBMS 8. Spark Dynamic Allocation Configuration
+1.3. Content
+  1. Cloudera CDH 6.0.0 Hadoop Cluster Installation guide (standalone mode) [Kyligence]
+    a. https://confluence.eng.vmware.com/pages/viewpage.action?pageId=454072195
+  2. Setting Up a Cluster (Standalone) in Cloudera Manager For Running Kyligence Enterprise [Kyligence] 
+    a. https://confluence.eng.vmware.com/pages/viewpage.action?pageId=454072399
+  3. Business Unit vs CPU Usage Result [Kyligence]
+    a. https://confluence.eng.vmware.com/pages/viewpage.action?pageId=460306301
+  4. Automatic-VMS-To-VMS_TEMP-Script [Kyligence]
+    a. https://gitlab.eng.vmware.com/bpeng/automatic-vms-to-vms-temp-script/blob/master/init.py
+  5. Build Kyligence Enterprise on Hadoop
+    a. https://docs.kyligence.io/books/enterprise/latest/en/quickstart/ 
+  6. Kyligence API Code
+    a. https://gitlab.eng.vmware.com/bpeng/kyligence-api
+1.4. Note: The Kyligence Introduction PowerPoint and Tutorial Video is attached to this page
